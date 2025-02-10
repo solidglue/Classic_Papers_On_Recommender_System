@@ -20,7 +20,7 @@ https://arxiv.org/pdf/1905.09433
 PEPNet:
 https://arxiv.org/pdf/2302.01115
 
-### 2) Recall
+### 2) Retrieval
 
 TDM:
 https://arxiv.org/pdf/1801.02294
@@ -34,9 +34,8 @@ https://arxiv.org/pdf/1904.08030
 DSSM：
 https://posenhuang.github.io/papers/cikm2013_DSSM_fullversion.pdf
 
-YouTubeDNN Recall：
-https://dl.acm.org/doi/pdf/10.1145/3298689.3346996
-https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf
+YouTubeDNN Retrieval：
+https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/6417b9a68bd77033d65e431bdba855563066dc8c.pdf
 
 DR：
 https://arxiv.org/pdf/2007.07203
