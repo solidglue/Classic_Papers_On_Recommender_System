@@ -4,7 +4,7 @@ Here are some classic papers on recommender system that are suitable for beginne
 
 ## My  Google Scholar Profile（Ad）
 Here is my Google Scholar profile URL, where you can find some papers related to recommendation systems. If they are helpful to you, feel free to cite them.
-https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=_nuGLhoAAAAJ
+https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=_nuGLhoAAAAJ  
 
 ## Classic Papers
 
