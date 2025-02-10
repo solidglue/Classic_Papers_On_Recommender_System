@@ -79,7 +79,7 @@ https://arxiv.org/pdf/1709.05135
 Kuaishou ON-DEVICE RANKING MODEL：
 https://arxiv.org/pdf/2208.09577
 
-### 5)Cold Start
+### 5) Cold Start
 
 POSO:
 https://arxiv.org/pdf/2108.04690
