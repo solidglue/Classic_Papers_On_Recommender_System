@@ -1,9 +1,11 @@
 # Classic Papers On Recommender System
 
-Here are some classic papers on recommender system that are suitable for beginners.
+Here are some classic papers on recommender system that are suitable for beginners.  
+这里介绍了一些推荐系统经典论文，适合初学者学习使用。
 
 ## My  Google Scholar Profile（Ad）
-Here is my Google Scholar profile URL, where you can find some papers related to recommendation systems. If they are helpful to you, feel free to cite them.  
+Here is my Google Scholar profile URL, where you can find some papers related to recommendation systems. If they are helpful to you, feel free to cite them.    
+求引用，求引用，哈哈哈。  
 
 https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=_nuGLhoAAAAJ  
 
