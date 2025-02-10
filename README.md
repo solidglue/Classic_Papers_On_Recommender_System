@@ -66,7 +66,7 @@ https://arxiv.org/pdf/2006.05639
 MMOE:
 https://dl.acm.org/doi/pdf/10.1145/3219819.3220007
 
-### 4) Re-rank
+### 4) Re-ranking
 
 MMR：
 https://www.cs.cmu.edu/~jgc/publication/The_Use_MMR_Diversity_Based_LTMIR_1998.pdf
