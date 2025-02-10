@@ -74,13 +74,21 @@ https://www.cs.cmu.edu/~jgc/publication/The_Use_MMR_Diversity_Based_LTMIR_1998.p
 DPP:
 https://arxiv.org/pdf/1709.05135
 
+Kuaishou ON-DEVICE RANKING MODEL：
+https://arxiv.org/pdf/2208.09577
+
 ### 5)Cold Start
 
 POSO:
 https://arxiv.org/pdf/2108.04690
 
 ### 6) Other
+
 Attention：
 https://arxiv.org/pdf/1706.03762
+
+Self-supervised Learning：
+https://arxiv.org/pdf/2007.12865  
+
 
 
